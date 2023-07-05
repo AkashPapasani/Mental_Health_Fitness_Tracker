@@ -1,31 +1,31 @@
 This project is a mental health fitness tracker that uses artificial intelligence to track the user's mood and provide suggestions for how to improve their mental health. The user can enter their mood each day, and the tracker will calculate their average mental health score. The tracker will also provide suggestions for activities that the user can do to improve their mental health, such as exercise, meditation, or spending time with loved ones.
 
-Features
-Randomly generates a mood for the user
-Calculates the user's mental health score based on their mood
-Tracks the user's mood over time
-Provides suggestions for how to improve the user's mental health
-Connects the user with mental health resources
-Usage
+FEATURES:
+1.Randomly generates a mood for the user
+2.Calculates the user's mental health score based on their mood
+3.Tracks the user's mood over time
+4.Provides suggestions for how to improve the user's mental health
+5.Connects the user with mental health resources 
+USUAGE:
 To use the project, the user will need to:
 
-Clone the repository to their local machine
-Install the required dependencies
-Run the main.py file
-Contributions
+1.Clone the repository to their local machine
+2.Install the required dependencies
+3.Run the main.py file
+CONTRIBUTIONS:
 Contributions to the project are welcome. Please submit a pull request if you have any changes or additions that you would like to make.
 
-License
+LICENSE:
 The project is licensed under the MIT License.
 
-Contact
+CONTACT:
 If you have any questions or feedback, please contact the project owner at [email protected]
 
 This README.md file includes the following information:
 
-A brief description of the project
-A list of features
-Instructions on how to use the project
-Information about contributions
-The project's license
-Contact information
+1.A brief description of the project
+2.A list of features
+3.Instructions on how to use the project
+4.Information about contributions
+5.The project's license
+6.Contact information
