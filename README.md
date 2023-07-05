@@ -7,7 +7,7 @@ FEATURES:
 4.Provides suggestions for how to improve the user's mental health
 5.Connects the user with mental health resources 
 USUAGE:
-To use the project, the user will need to:
+To use the project, the user will need to :
 
 1.Clone the repository to their local machine
 2.Install the required dependencies
