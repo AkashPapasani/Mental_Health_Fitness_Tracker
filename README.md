@@ -6,9 +6,9 @@ FEATURES:
 3.Tracks the user's mood over time
 4.Provides suggestions for how to improve the user's mental health
 5.Connects the user with mental health resources 
+
 USUAGE:
 To use the project, the user will need to :
-
 1.Clone the repository to their local machine
 2.Install the required dependencies
 3.Run the main.py file
@@ -22,7 +22,6 @@ CONTACT:
 If you have any questions or feedback, please contact the project owner at [email protected]
 
 This README.md file includes the following information:
-
 1.A brief description of the project
 2.A list of features
 3.Instructions on how to use the project
