@@ -2,12 +2,10 @@ import random
 import time
 
 def get_mood():
-  """Returns a random mood."""
   moods = ["happy", "sad", "anxious", "stressed", "neutral"]
   return random.choice(moods)
 
 def get_mental_health_score():
-  """Returns a mental health score based on the user's mood."""
   mood = get_mood()
   if mood == "happy":
     return 100
@@ -21,7 +19,6 @@ def get_mental_health_score():
     return 75
 
 def main():
-  """The main function."""
   score = 0
   for i in range(10):
     mood = get_mood()
